@@ -28,9 +28,15 @@ figcaption,
 blockquote,
 dl,
 dd {
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
   margin: 0;
 }
-
+img {
+  pointer-events: none;
+}
 /* Выставляем основные настройки по-умолчанию для body */
 body {
   width: 100%;
