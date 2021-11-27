@@ -29,13 +29,12 @@
                                 <img class="slider__img" src="assets\img\slider-img\1.png" alt="flower">
                             </div>
                         </div>
-                        <div class="slider__item"></div>
-                        <div class="slider__item"></div>
+                        
                     </div>
                 </div>
                 <ul class="controls">
                     <li class="controls__item"><button class="controls__btn"></button></li>
-                    <li class="controls__item"><button class="controls__btn active"></button></li>
+                    <li class="controls__item"><button class="controls__btn active-control"></button></li>
                     <li class="controls__item"><button class="controls__btn"></button></li>
 	            </ul>
             </div>
